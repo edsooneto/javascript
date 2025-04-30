@@ -1,8 +1,8 @@
 @charset "UTF-8";
 
 body {
-    background: rgb(0, 162, 255);
     font: normal 15pt Arial;
+    background: rgb(0, 162, 255);
 }
 
 header {
@@ -13,19 +13,14 @@ header {
 section {
     background: white;
     border-radius: 10px;
-    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.332);
-    margin: auto;
     padding: 15px;
     width: 500px;
-}
-
-div {
-    padding: 10px;
-    text-align: center;
+    margin: auto;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.332);
 }
 
 footer {
     color: white;
-    font-style: italic;
     text-align: center;
+    font-style: italic;
 }
